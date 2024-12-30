@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring Map For NamaLibrary
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+RescenicIO	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setupPin	KEYWORD2
+outputSet	KEYWORD2
+blink			KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+CONSTANT	LITERAL1
